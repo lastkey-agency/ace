@@ -17,10 +17,10 @@ An **ACE** (Agentic Cognition Environment) goes a step beyond and deeper — giv
 
 ### Components
 
-- **Planning Engine** — intent hierarchy from strategic goals to today's first action. Execution lanes: what needs an agent, what needs human judgment, what needs a phone call.
-- **Institutional Memory** — knowledge graph, episodic memory, source intelligence, unified retrieval. The system remembers so you don't have to.
-- **Governance Framework** — automated verification, adaptive trust per agent, threshold-based escalation. The system watches agents so you watch the horizon.
-- **Unified Input** — one surface where intent enters the system and gets routed to the right execution stream.
+- **Planning Engine** — from long-term goals to today's first task. Decomposes intent, delegates work, tracks every issue through completion.
+- **Institutional Memory** — decisions, patterns, sources, and lessons persist across sessions. Your input becomes your structured, ever-growing asset.
+- **Governance Framework** — expand scope according to plan, maintain oversight without direct control, intervene when it matters.
+- **Unified Input** — one surface where intent enters and gets routed to the right stream. Think at the level of projects and goals, not agentic sessions.
 
 ## Status
 
