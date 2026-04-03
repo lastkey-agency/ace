@@ -20,7 +20,7 @@ An **ACE** (Agentic Cognition Environment) goes a step beyond and deeper — giv
 - **Planning Engine** — from long-term goals to today's first task. Decomposes intent, delegates work, tracks every issue through completion.
 - **Institutional Memory** — decisions and lessons persist across sessions. Your input becomes your structured, ever-growing asset.
 - **Governance Framework** — expand scope according to plan, maintain oversight without direct control, intervene when it matters.
-- **Unified Input** — one surface where intent enters and gets routed to the right stream. Think at the level of projects and goals, not agentic sessions.
+- **Unified Input** — one surface where intent is captured and streamed in the right direction. Think at the level of projects and goals, not agentic sessions.
 
 ## Status
 
